@@ -1,0 +1,2 @@
+rootProject.name='Bloc_Notes'
+include ':app'
